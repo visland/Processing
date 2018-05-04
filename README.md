@@ -1,5 +1,5 @@
 # Processing
-Programming for Visual Designers
+### Programming for Visual Designers
 These sketches include five interactive drawings:
 - Week1: Active Drawing (Mouse as Input)
 - Week2: Patterns (Keyboard as Input)
